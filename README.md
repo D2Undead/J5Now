@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @J5Now
+- 👀 I’m interested in these languages:
+   - JavaScript
+   - HTML / CSS
+   - Java (although I am not a very decent Java coder)
+   - C++
+   - Python
+   - C# (all I do with C# code is stare at it until I can understand two lines)
+- 👀 I'm also interested in most coding projects; especially HTML games, 3D renderers, pixel art, sandbox games, and physics simulators.
+- 🌱 I’m always learning client-side JavaScript by making HTML pages. I already have done quite a few tutorials. I also want to know how to create executable JavaScript files.
+- 💞️ I’m looking to collaborate on: Nothing yet. Maybe in a few years I will look at something.
+- 📫 How to reach me: If you want to say something to me, then see me on Reddit (u/D2Undead).
